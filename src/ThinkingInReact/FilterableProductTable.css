@@ -1,0 +1,9 @@
+.FilterableProductTable {
+  border: 1px solid #000;
+  width: 400px;
+  margin: 15px auto;
+  padding: 15px;
+}
+form {
+  text-align: left;
+}
